@@ -1,0 +1,4 @@
+venv
+barcodes
+__pycache__
+*.zip
